@@ -65,13 +65,10 @@ To train and evaluate a KG embedding model for the link prediction task, use th
 
     python main.py 
 
-## **Citation**
-
-If you use the codes, please cite the following paper \[1] \[2]:
 
 ## **Acknowledgement**
 
-We refer to the code of **CPC **\[1] and **kg-reeval **\[2]. Thanks for their contributions:
+We refer to the code of **CPC**\[1] and **kg-reeval** \[2]. Thanks for their contributions:
 
 
 \[1] Oord, Aaron van den, Yazhe Li, and Oriol Vinyals. "Representation learning with contrastive predictive coding." 2018.
