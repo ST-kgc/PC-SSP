@@ -71,8 +71,8 @@ To train and evaluate a KG embedding model for the link prediction task, use th
 We refer to the code of **CPC** \[1] and **kg-reeval** \[2]. Thanks for their contributions:
 
 
-\[1] Oord, Aaron van den, Yazhe Li, and Oriol Vinyals. "Representation learning with contrastive predictive coding." 2018.
+\[1] Oord, et al. "Representation learning with contrastive predictive coding." 2018.
 
-\[2] Sun, Zhiqing, et al. "A re-evaluation of knowledge graph completion methods." 2019.
+\[2] Sun, et al. "A re-evaluation of knowledge graph completion methods." 2019.
 
 
